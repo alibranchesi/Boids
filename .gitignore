@@ -1,0 +1,9 @@
+.vscode/
+Simulation.o
+main.o
+move.o
+simulation
+move2.cpp
+Boid.hpp
+35fish.png:Zone.Identifier
+/Temporanea
